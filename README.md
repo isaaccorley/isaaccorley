@@ -10,7 +10,7 @@ Experience:
 * Research Intern - [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/)
 
 Education:
-* Ph.D. Student Electrical Engineering - [University of Texas at San Antonio (UTSA)](https://engineering.utsa.edu/electrical-computer/)
+* Ph.D. Electrical Engineering (In Progress) - [University of Texas at San Antonio (UTSA)](https://engineering.utsa.edu/electrical-computer/)
 * M.S. Electrical Engineering - [University of Texas at San Antonio (UTSA)](https://engineering.utsa.edu/electrical-computer/)
 * B.S. Electrical Engineering - [Texas A&M University Kingsville (TAMUK)](https://www.tamuk.edu/engineering/departments/eecs/index.html)
 
