@@ -1,6 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=isaaccorley&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
 
-
 Experience:
 
 * Senior Research Engineer - [BlackSky](https://www.blacksky.com/)
@@ -18,4 +17,8 @@ Publications:
 * [Google Scholar](https://scholar.google.com/citations?user=Xw0xO3UAAAAJ&hl=en&oi=ao)
 
 Contact
-* isaac.corley@my.utsa.edu
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaac.corley@my.utsa.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaaccorley)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R75ZJN2)
