@@ -16,7 +16,7 @@ Education:
 Publications:
 * [Google Scholar](https://scholar.google.com/citations?user=Xw0xO3UAAAAJ&hl=en&oi=ao)
 
-Contact
+Contact:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaac.corley@my.utsa.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaaccorley)
