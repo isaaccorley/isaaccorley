@@ -6,7 +6,7 @@ Experience:
 
 * Principal Machine Learning Engineer (Consulting) - [DroneBase](https://dronebase.com/)
 * Senior Machine Learning Engineer (Consulting) - [Spruce](https://spruce.co/)
-* Senior Research Engineer - [BlackSky](https://www.blacksky.com/)
+* Senior Computer Vision Engineer - [BlackSky](https://www.blacksky.com/)
 * Senior Data Scientist - [HouseCanary](https://www.housecanary.com/)
 * Senior Data Scientist - [Booz Allen Hamilton](https://www.boozallen.com/)
 * Research Engineer - [Southwest Research Institute (SwRI)](https://www.swri.org/)
