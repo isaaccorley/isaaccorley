@@ -4,6 +4,8 @@ Currently interested in 2D/3D Computer Vision for Remote Sensing/Geospatial/Eart
 
 Experience:
 
+* Principal Machine Learning Engineer (Consulting) - [DroneBase](https://dronebase.com/)
+* Senior Machine Learning Engineer (Consulting) - [Spruce](https://spruce.co/)
 * Senior Research Engineer - [BlackSky](https://www.blacksky.com/)
 * Senior Data Scientist - [HouseCanary](https://www.housecanary.com/)
 * Senior Data Scientist - [Booz Allen Hamilton](https://www.boozallen.com/)
