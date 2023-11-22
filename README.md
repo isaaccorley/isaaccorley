@@ -3,7 +3,7 @@
 Currently interested in 2D/3D Computer Vision for Remote Sensing/Geospatial/Earth Observation
 
 Experience:
-* Principal Machine Learning Engineer - [Zeitview (formerly DroneBase)](https://zeitview.com/)
+* Senior Machine Learning Engineer - [Zeitview (formerly DroneBase)](https://zeitview.com/)
 * Machine Learning Scientist (Consulting) - [Schlumberger](https://www.slb.com/)
 * Senior Machine Learning Engineer (Consulting) - [Spruce](https://spruce.co/)
 * Senior Computer Vision Engineer - [BlackSky](https://www.blacksky.com/)
